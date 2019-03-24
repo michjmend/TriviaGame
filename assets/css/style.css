@@ -52,6 +52,8 @@ p {
 }
 
 button {
+  background-color: white;
+  color: black;
   text-align: center;
   display:block;
   width:50%;
@@ -61,6 +63,11 @@ button {
   cursor: pointer;
   font-size: 42px;;
 }
+
+/* #triviaquestions {
+  background: transparent;
+  color: white;
+} */
 
 #startButton {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
